@@ -1,0 +1,58 @@
+{
+    "Med vennlig hilsen": {
+        "nn": "Med venleg helsing",
+        "en": "Sincerely yours"
+    },
+    "Vår dato": {
+        "nn": "Vår dato",
+        "en": "Our date"
+    },
+    "Vår referanse": {
+        "nn": "Vår referanse",
+        "en": "Our reference"
+    },
+    "Deres dato": {
+        "nn": "Dykkar dato",
+        "en": "Your date"
+    },
+    "Deres referanse": {
+        "nn": "Dykkar referanse",
+        "en": "Your reference"
+    },
+    "Universitetet i Bergen": {
+        "nn": "Universitetet i Bergen",
+        "en": "University of Bergen"
+    },
+    ">side <": {
+        "nn": ">side <",
+        "en": ">page <"
+    },
+    "Postadresse": {
+        "nn": "Postadresse",
+        "en": "Postal address"
+    },
+    "Postboks": {
+        "nn": "Postboks",
+        "en": "P.O. Box"
+    },
+    "E-post": {
+        "nn": "E-post",
+        "en": "E-mail"
+    },
+    "Organisasjonsnummer": {
+        "nn": "Organisasjonsnummer",
+        "en": "Organization number"
+    },
+    "Saksbehandler": {
+        "nn": "Saksbehandlar",
+        "en": "Executive officer"
+    },
+    "Telefon": {
+        "nn": "Telefon",
+        "en": "Telephone +47"
+    },
+    "Mobil": {
+        "nn": "Mobil",
+        "en": "Mobile"
+    }
+}
